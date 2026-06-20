@@ -1,4 +1,4 @@
-# jepa-transformer-edge-profiling
+# transformer-profiling
 
 A benchmarking and performance analysis tool designed to profile Transformer layer across different hardware architectures (CPU vs. GPU). This project evaluates computational latencies of self-supervised lightweight model based on Vision Transformer (dinov2 ViT-small).
 
